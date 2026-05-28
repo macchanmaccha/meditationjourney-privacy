@@ -1,0 +1,2 @@
+# meditationjourney-privacy
+MeditationJourneyのプライバシーポリシー公開用ページ
