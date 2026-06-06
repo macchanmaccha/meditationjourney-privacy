@@ -21,8 +21,7 @@ MeditationJourney（以下「本アプリ」）は、ユーザーのプライバ
 本アプリは、広告配信サービスおよび外部解析サービスを利用していません。
 
 ## 5. お問い合わせ
-- 開発者名：macchanmaccha
-- メールアドレス：queenqueenqueen13@gmail.com
+(https://docs.google.com/forms/d/e/1FAIpQLSeqCgZYeQ6B_c7yQVGboIzrUZyqlfWJHOsKmdpfjAVsw6X_dw/viewform?usp=publish-editor)
 
 制定日：2026年5月28日  
 最終改定日：2026年5月28日
