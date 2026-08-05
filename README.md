@@ -10,10 +10,10 @@
 
 ## 3. アプリのコンセプト
 
- <a href="https://speakerdeck.com/macchanmaccha/breathtrip-concept1-dot-3"><img alt="コンセプトスライド" src="https://github.com/user-attachments/files/30543586/BreathTrip_Concept1.3.pdf"></a>
- 
+ <a href="https://speakerdeck.com/macchanmaccha/breathtrip-concept1-dot-3"><img alt="コンセプトスライド" src="https://github.com/user-attachments/assets/2170b1bc-a7b1-46a5-97d0-bfae1a22d8be"></a>
 
 ## 4. 実行画面
+
 
 <img width="320" height="672" alt="マイムービー" src="https://github.com/user-attachments/assets/f14c4363-5a7e-4a42-a2a5-435660ce2684" />
 <img width="320" height="672" alt="マイムービー2" src="https://github.com/user-attachments/assets/ab6eb265-d591-48e3-9b17-e0ad1b4c8df6" />
